@@ -1,0 +1,11 @@
+# Specify Cargo Detail's. #
+[package]
+author = [
+   "name email"
+]
+edition = "2021"
+name = "src"
+version = "0.1.0"
+
+# Specify Cargo Packages. #
+[dependencies]
